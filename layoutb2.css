@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.block {
+    width: 100%;
+    height: 150px;
+}
+.blue-light {
+    background-color: #8AAAE5;
+}
+.red {
+    background-color:#FF0000;
+    height: 50px;
+}
+.blue-dark {
+    background-color: #0072BB;
+    height: 400px;
+}
+.green {
+    background-color: green;
+    float: left;
+    height: 200px;
+    width: 20%;
+}    
+.blue {
+    background-color: blue;
+    float: left;
+    height: 100px;
+    width: 55%;
+}    
+.blue-lighter {
+    background-color: #A8D0E6;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.purple {
+    background-color: #6A0572;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.blue-lightest {
+    background-color: #abd0e6;
+    width: 20%;
+    height: 200px;
+    float: left;
+}    
+.yellow {
+    background-color: #FDCB0A;
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+.green-light {
+    background-color: #D4E157;
+    width: 80%;
+    height: 200px;
+    float: left;
+}
+.blue-medium {
+    background-color: #0072BB;
+    clear: both;
+    height: 150px;
+}    
+

@@ -1,0 +1,56 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+.block {
+    height: 150px;
+    width: 100%;
+}
+.blue-light {
+    background-color: #8aaae5;
+    
+}
+.red {
+    background-color: #FF0000;
+    height: 50px;
+}
+.blue-dark {
+    background-color: #0072bb;
+    height: 400px;
+}
+
+.blue-medium {
+    background-color: #0072bb;
+    width: 70%;
+    height: 200px;
+    float: left;
+}
+.blue-lighter {
+    background-color: #abd0e6;
+    width: 30%;
+    height: 100px;
+    float: right;
+}
+.purple {
+    background-color: #6A0572;
+    width: 30%;
+    height: 100px;
+    float: right;
+}
+.yellow {
+    background-color: #fdcb0a;
+    width: 15%;
+    height: 200px;
+    float: left;
+}
+.green-light {
+    background-color: #D4E517;
+    width: 85%;
+    height: 200px;
+    float:right
+}
+.blue-dark {
+    background-color: #0072bb;
+   height: 150px;
+    clear: both;
+}
